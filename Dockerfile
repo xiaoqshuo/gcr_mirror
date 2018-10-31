@@ -1,2 +1,2 @@
 # Pull image from gcr.io
-FROM gcr.io/google_containers/metrics-server-amd64:v0.2.1
+FROM k8s.gcr.io/heapster-amd64:v1.5.4
