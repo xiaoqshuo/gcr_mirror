@@ -1,2 +1,2 @@
 # Pull image from gcr.io
-FROM k8s.gcr.io/heapster-grafana-amd64:v5.0.4
+k8s.gcr.io/pause:3.1
